@@ -22,3 +22,7 @@ This automation is for volunteers or drivers who will pick up supplies and would
   - City (from 🚛 Supplier Pickup Events)
   - Temperature (Fahrenheit) (from 🚛 Supplier Pickup Events)
   - Expected weather (from 🚛 Supplier Pickup Events)
+
+## Screenshot
+
+<img src="https://github.com/yitzhakalvarez/airtable-weather-automation/blob/main/img/weather-automation-text.jpg" width="350" height="350">

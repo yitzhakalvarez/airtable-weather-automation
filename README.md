@@ -1,4 +1,4 @@
-# <img src="https://github.com/yitzhakalvarez/airtable-weather-automation/blob/main/img/airtable.png" width="30" height="30"> Airtable Weather Automation
+# <img src="https://github.com/yitzhakalvarez/airtable-weather-automation/blob/main/img/airtable.png" width="25" height="25"> Airtable Weather Automation
 
 ## Description
 

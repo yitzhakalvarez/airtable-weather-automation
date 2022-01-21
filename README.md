@@ -16,7 +16,7 @@ This automation is for volunteers or drivers who will pick up supplies and would
     - City
     - Temperature (Fahrenheit)
     - Expected weather
-- 🙋🏽Volunteers CRM
+- 🙋🏽 Volunteers CRM
   - First Name
   - Phone number
   - City (from 🚛 Supplier Pickup Events)
